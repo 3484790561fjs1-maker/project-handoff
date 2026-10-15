@@ -1,0 +1,1 @@
+interface:  display_name: "项目交接"  short_description: "两台电脑轮流开发时，同步代码、项目架构、固定规则与开发进展"  default_prompt: "使用 $project-handoff，根据我的要求执行初始化交接、开工同步或收工同步。"

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "remote": null,
+  "repository_url": null,
+  "branch": null,
+  "documents": {
+    "readme": "README.md",
+    "architecture": "docs/ARCHITECTURE.md",
+    "status": "docs/STATUS.md",
+    "decisions": "docs/DECISIONS.md"
+  },
+  "checks": [],
+  "environment": {
+    "runtime": [],
+    "install": [],
+    "start": [],
+    "configuration": [],
+    "database": []
+  }
+}
