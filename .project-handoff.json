@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "remote": "origin",
+  "repository_url": "https://github.com/3484790561fjs1-maker/project-handoff.git",
+  "branch": "main",
+  "documents": {
+    "readme": "README.md",
+    "architecture": "docs/MAINTENANCE.md",
+    "status": "docs/STATUS.md",
+    "decisions": "docs/MAINTENANCE.md"
+  },
+  "checks": [],
+  "environment": {
+    "runtime": ["Git；运行流程演练时另需 Python 3"],
+    "install": ["按 README 将 skills/project-dev 和 skills/project-handoff 安装到本机 Codex 技能目录"],
+    "start": ["本项目是 Skill 源码，没有独立应用启动服务；在 Codex 中调用相应 Skill"],
+    "configuration": ["本机配置有仓库访问权限的 GitHub 登录；保留已有 Skill 定制"],
+    "database": []
+  }
+}

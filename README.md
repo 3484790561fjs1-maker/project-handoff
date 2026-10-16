@@ -6,6 +6,8 @@
 
 👉 **[简明实操指南：直接复制提示词使用](docs/project-dev-使用说明.md)**
 
+换电脑继续改进这套 Skill 时，先读 [维护背景](docs/MAINTENANCE.md) 与 [当前进展](docs/STATUS.md)，再按指南最后一步操作；不需要原聊天记录。
+
 ## 包含什么
 
 | Skill | 作用 | 版本 |
