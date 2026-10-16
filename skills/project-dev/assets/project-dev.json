@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "execution": {
+    "prefer_inline": true,
+    "max_parallel_implementers": 2
+  },
+  "documents": {
+    "requirements": "docs/REQUIREMENTS.md",
+    "plan": "docs/PLAN.md",
+    "tasks": "docs/TASKS.md",
+    "task_notes": "docs/tasks"
+  },
+  "ui": {
+    "rules": null,
+    "selected_design": null
+  }
+}

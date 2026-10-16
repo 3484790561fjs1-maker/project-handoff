@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目开发"
+  short_description: "统一需求规划、按需双路开发与公司家里两台电脑的项目交接"
+  default_prompt: "使用 $project-dev，读取当前项目状态并执行我这次要求的开发或交接。"
